@@ -4,7 +4,9 @@ A chrome extenstion for the lazy guys.
 
 # Introduction 
 
-This chrome extension was developed as a try to provide an interactive and easy-to-use extenstion to users who want to bulk-copy chrome tabs.
+This chrome extension was developed as a try to provide an interactive and easy-to-use extenstion to users who want to bulk-copy chrome tabs. The intention was to use the most-vanilla possible code, without any frameworks or libraries, minimal as possible, only JS, HTMl and Some CSS.
+
+
 
 # Features
 
@@ -24,3 +26,4 @@ This chrome extension was developed as a try to provide an interactive and easy-
 # License
 
 This project is signed under MIT License
+
